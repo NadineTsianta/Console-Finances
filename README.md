@@ -11,3 +11,4 @@ This project's requirement was to write Javascript code that analyzes the record
 -The greatest increase in Profit/Losses (date and amount) over the entire period.
 -The greatest decrease in Profit/Losses (date and amount) over the entire period.
 
+![Screenshot from console log](./images/Console-log.png)
