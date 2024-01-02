@@ -88,7 +88,7 @@ let finances = [
 ];
 
 
-
+console.log("Financial Analysis");
 console.log("Total Months: "+ finances.length); // The total number of months included in the dataset.
 
 let total = 0;
